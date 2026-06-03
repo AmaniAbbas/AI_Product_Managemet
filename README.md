@@ -47,7 +47,7 @@ ai-product-management/
 |   ├── CCPP_data.csv
 │
 ├── managing-machine-learning-projects/Project_2
-│   ├── ...
+│   ├── README.md
 │   
 │
 ├── human-factors-in-ai/Project_3
@@ -63,7 +63,7 @@ ai-product-management/
 |  Project  |                        Description                        |    Status    |
 |-----------|-----------------------------------------------------------|--------------|
 | Project 1 |Power Plant Energy Output Predictionusing regression models| ✅ Complete  |
-| Project 2	|                         Coming Soon                       |	   🚧	   |
+| Project 2	|Engineering Growth Coach: AI-powered personalized learning and productivity recommendations for engineers|	✅ Complete |
 | Project 3	|                         Coming Soon                       |	   🚧	   |
 
 ---
@@ -97,11 +97,48 @@ In this project, I built and evaluated machine learning models to predict the el
 ```text
 project_1/
 ├── README.md
-├── ccpp_power_plant_project.md
 ├── ccpp_power_plant_project.ipynb
 └── CCPP_data.csv
 ```
 
+---
+
+## Project 2 — Engineering Growth Coach
+
+In this project, I developed a machine learning product proposal for an AI-powered Engineering Growth Coach that identifies skill gaps and recommends personalized learning interventions based on engineering work patterns.
+
+The project investigates how machine learning can be used to analyze engineering workflows, learning behavior, and performance signals to provide targeted growth recommendations rather than relying solely on manager-driven coaching.
+
+### Skills Practiced
+
+* Opportunity Evaluation
+* CRISP-DM Business Understanding
+* AI Product Strategy
+* Success Metrics Definition
+* Solution Validation Planning
+* ML System Design
+* Production Risk Analysis
+* AI Product Communication
+* Responsible AI Considerations
+
+### Concepts Applied
+
+* Machine Learning Opportunity Identification
+* Personalized Learning Systems
+* Data Flywheel Effects
+* Recommendation Systems
+* Data Drift
+* Concept Drift
+* Training-Serving Skew
+* Model Monitoring
+* Model Lifecycle Management
+
+### Project Files
+
+```text
+project_2/
+├── README.md
+```
 ---
 
 ## Learning Objectives
@@ -140,5 +177,5 @@ Through these projects I aim to strengthen my understanding of:
 ## Progress
 
 * [x] Project 1 — Power Plant Energy Output Prediction
-* [ ] Project 2
+* [x] Project 2 - Engineering Growth Coach
 * [ ] Project 3
