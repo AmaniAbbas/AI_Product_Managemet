@@ -43,7 +43,6 @@ ai-product-management/
 │
 ├── machine-learning-foundations/Project_1
 │   ├── README.md
-│   ├── ccpp_power_plant_project.md
 |   ├── ccpp_power_plant_project.ipynb
 |   ├── CCPP_data.csv
 │
