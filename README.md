@@ -51,7 +51,7 @@ ai-product-management/
 │   
 │
 ├── human-factors-in-ai/Project_3
-│   ├── ...
+│   ├── README.md
 │
 └── README.md
 ```
@@ -64,7 +64,7 @@ ai-product-management/
 |-----------|-----------------------------------------------------------|--------------|
 | Project 1 |Power Plant Energy Output Predictionusing regression models| ✅ Complete  |
 | Project 2	|Engineering Growth Coach: AI-powered personalized learning and productivity recommendations for engineers|	✅ Complete |
-| Project 3	|                         Coming Soon                       |	   🚧	   |
+| Project 3	|Engineering Growth Coach: human-centered AI UX, privacy, and ethics evaluation|	✅ Complete |
 
 ---
 
@@ -139,6 +139,44 @@ The project investigates how machine learning can be used to analyze engineering
 project_2/
 ├── README.md
 ```
+
+---
+
+## Project 3 — Human Factors in AI: Engineering Growth Coach
+
+In this project, I expanded the Engineering Growth Coach concept by designing the user experience and evaluating the ethical and privacy implications of the AI-powered product.
+
+The project focuses on how engineers would interact with personalized learning recommendations, how the system should explain its outputs, how uncertainty should be communicated, and how user feedback can improve future recommendations. It also considers responsible use of workplace data, applicable privacy laws, and strategies for reducing bias in AI-driven coaching systems.
+
+### Skills Practiced
+
+* Task Analysis
+* Human-Centered AI Design
+* AI User Experience Design
+* Designing Feedback Loops
+* Communicating Model Uncertainty
+* Privacy Risk Analysis
+* Ethical AI Evaluation
+* Bias Identification and Mitigation
+
+### Concepts Applied
+
+* AI Transparency
+* Explainable Recommendations
+* User Control and Consent
+* Privacy by Design
+* GDPR and UK GDPR Considerations
+* CCPA/CPRA Considerations
+* Fairness, Accountability, and Transparency
+* Human Oversight in AI Systems
+
+### Project Files
+
+```text
+project_3/
+├── README.md
+```
+
 ---
 
 ## Learning Objectives
@@ -178,4 +216,4 @@ Through these projects I aim to strengthen my understanding of:
 
 * [x] Project 1 — Power Plant Energy Output Prediction
 * [x] Project 2 - Engineering Growth Coach
-* [ ] Project 3
+* [x] Project 3 - Human Factors in AI
